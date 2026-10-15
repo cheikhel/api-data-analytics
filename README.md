@@ -66,3 +66,17 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/cheikhel/api-data-analytics.git
+
+## How AI Was Used
+
+ChatGPT was used as a development assistant throughout the project.
+
+It helped with:
+
+- understanding the internship requirements,
+- planning the project step by step,
+- improving code structure and error handling,
+- debugging development and deployment issues,
+- improving the Streamlit dashboard layout and visualizations,
+
+The project was developed incrementally. Each feature was implemented, tested, and reviewed before moving to the next step.
