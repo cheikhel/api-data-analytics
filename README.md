@@ -56,6 +56,10 @@ https://jsonplaceholder.typicode.com/
 
 ![Dashboard Analytics](screenshots/screen2.png)
 
+## Live Demo
+
+[Open the live Streamlit dashboard](https://api-data-analytics-2.streamlit.app/)
+
 ## How to Run the Project Locally
 
 Clone the repository:
