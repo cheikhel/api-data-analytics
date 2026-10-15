@@ -46,9 +46,15 @@ The project uses the public JSONPlaceholder REST API:
 
 https://jsonplaceholder.typicode.com/
 
-## Screenshot
+## Screenshots
 
-A screenshot of the final dashboard will be added here.
+### Dashboard Overview
+
+![Dashboard Overview](screenshots/screen1.png)
+
+### Dashboard Analytics
+
+![Dashboard Analytics](screenshots/screen2.png)
 
 ## How to Run the Project Locally
 
